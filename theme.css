@@ -19,13 +19,11 @@ border:1px solid;
 border-radius:1px;
 font-size:12px;
 font-weight:400;
-text-align:center;
 }
 
 .navigation a {
 text-decoration:none;
 color:#fff;
-text-align:center;
 }
 
 #account-container {
@@ -129,6 +127,7 @@ padding:11px 0;
 #game-navigation a {
 line-height:.6em;
 color: white;
+text-align:center;
 }
 
 #resource-bar {
