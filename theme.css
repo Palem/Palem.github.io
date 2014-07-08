@@ -5,9 +5,9 @@ font-style:normal;
 }
 
 body {
-color:#000;
+color:white;
 font-family:verdana,helvetica,arial,sans-serif;
-background-color:#F8F8F8;
+background-color:#000000;
 }
 
 #header-logo {
@@ -688,12 +688,6 @@ color:#CC8080;
 
 .subtotal good {
 color:#green;
-}
-
-.reportable img {
-visibility:hidden;
-height:1px;
-width:1px;
 }
 
 #game-navigation .navigation {
