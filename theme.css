@@ -123,6 +123,7 @@ line-height:14px;
 #game-navigation .current-date {
 border:1px solid;
 padding:11px 0;
+text-align:middle
 }
 
 #game-navigation a {
