@@ -25,6 +25,7 @@ text-align:center;
 .navigation a {
 text-decoration:none;
 color:#fff;
+text-align:center;
 }
 
 #account-container {
@@ -223,7 +224,7 @@ input[type=text],form textarea,form input[type=text],form input[type=password] {
 padding-left:3px;
 font-size:16px;
 text-align:left;
-color:#fff;
+color:#000;
 border-color:#d7d7d7;
 border-width:1px;
 }
@@ -450,7 +451,7 @@ color:#fff;
 margin:0 1px;
 padding:6px 4px 1px;
 font-weight: 550;
-text-align:center;}
+}
 
 .game-content {
 border:1px solid;
